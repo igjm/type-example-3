@@ -1,1 +1,1 @@
-# type-experiment-3
+# type-example-3
